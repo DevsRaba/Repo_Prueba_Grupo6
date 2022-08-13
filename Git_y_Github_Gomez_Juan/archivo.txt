@@ -1,5 +1,14 @@
-a. ¿Quién inventó el sistema de control de versión Git y por qu�
+a. Quién inventó el sistema de control de versión Git y por qu�
+
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
 
 b. ¿A quién pertenece actualmente Github y por qué?
 
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
+
+
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+
+Existen muchas formas de usar Git. ... Nosotros esperamos que sepas cómo abrir el Terminal en Mac, o el "Command Prompt" o "Powershell" en Windows
