@@ -1,0 +1,5 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qu�
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
